@@ -1,0 +1,68 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-09 09:50:18
+* @Last Modified by:   张燕虹
+* @Last Modified time: 2018-04-13 11:11:54
+*/
+.box{
+	width: 289px;
+	height: 591px;
+	background: #af9f8f;
+	margin: 0 auto;
+	border-radius: 35px;
+	box-shadow: 0 0 5px 2px #d1b296 inset;
+	overflow: hidden;
+	background: -webkit-linear-gradient(left,#AC9B8B,#988672);
+	position: relative;
+}
+.shang{
+	width: 281px;
+	height: 47px;
+	margin-left: 0px;
+	margin-top: 6px;
+	border-top-left-radius: 35px;
+	border-top-right-radius: 35px;
+	border-top: 4px solid #d5c8c0;
+	border-right: 4px solid #d5c8c0;
+	border-left: 4px solid #d5c8c0;
+}
+.tu{
+	width: 60px;
+	height: 35px;
+	margin-left: 31px;
+	margin-top: 15px;
+}
+.zhong{
+	width: 90px;
+	height: 27px;
+	margin: 105px auto 0;
+}
+.xia{
+    width: 281px;
+	height: 47px;
+	margin-left: 0px;
+	margin-top: 344px;
+	border-bottom-left-radius: 35px;
+	border-bottom-right-radius: 35px;
+	border-bottom: 4px solid #d5c8c0;
+	border-right: 4px solid #d5c8c0;
+	border-left: 4px solid #d5c8c0;
+}
+.anjian{
+	width: 6px;
+	height: 86px;
+	background:#AC9B8B;
+	position: absolute;
+	left: -4px;
+	top: 111px;
+	border-radius: 25px;
+}
+.anjian1{
+	width: 6px;
+	height: 40px;
+	background:#AC9B8B;
+	position: absolute;
+	left: -4px;
+	top: 220px;
+	border-radius: 25px;
+}
